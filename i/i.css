@@ -144,13 +144,13 @@ html[step="article"] section{
 
 }
 .text pre{
-	line-height:1;
+	line-height:2;
 }
 .text pre code{
 	display:block;
 	overflow-x:auto;
 	padding:.5em .7em;
-	background:#23241f;color:#f8f8f2;
+	background:#f0f0f0;color:#23241f;
 }
 
 .text code{
