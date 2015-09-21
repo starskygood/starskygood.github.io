@@ -155,10 +155,11 @@ html[step="article"] section{
 
 .text code{
 	background: #f0f0f0;
-	color: #23241f;
-	padding: .2em .3em;
-	border-radius: .3em;
-	text-shadow:0 1px 0 #000;
+	text-shadow: 0 1px #fff
+    font-size:  0.85em
+    padding: 0 0.3em
+    border: 1px solid #dcdcdc
+    border-radius: 3px
 }
 /*.article ul{padding-left:2em;list-style-type:disc;}*/
 
