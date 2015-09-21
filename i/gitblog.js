@@ -76,7 +76,8 @@ getHome=function(){
 },
 postShow=function(url){
 	html.setAttribute('step','article')
-
+	MD('.article',{
+	
 
 	})
 	console.log(url)
