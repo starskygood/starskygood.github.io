@@ -154,8 +154,8 @@ html[step="article"] section{
 }
 
 .text code{
-	background: #333;
-	color: #FFF;
+	background: #f0f0f0;
+	color: #23241f;
 	padding: .2em .3em;
 	border-radius: .3em;
 	text-shadow:0 1px 0 #000;
